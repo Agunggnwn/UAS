@@ -34,21 +34,21 @@ UI APLIKASI
 1. Beranda
 Beranda ini digunakan sebagai identitas web dan hal pertama untuk menarik seseorang dalam sebuah web.
 
-home(/img/ss/home.JPG)
+home(/UAS/ss/home.JPG)
 
 2. Read Data (Fitur Menampilkan Pendaftar)
 Sebuah halaman web yang menamilkan sekilas data data dari pendaftar akademi polisi.
 
-read(/img/ss/read.JPG)
+read(/UAS/ss/read.JPG)
 
 3. Create Data (Fitur Form Pendaftaran)
 Sebuah page form untuk melakukan penambahan data anggota pendaftar dan lansung bertambah kedatabase.
 
-create(/img/ss/create.JPG)
+create(/UAS/ss/create.JPG)
 
 4. Edit Data (Fitur Sparepart)
 Sebuah page form untuk melakukan sebuah Perubahan han data pendaftar dan lansung berubah didatabasenya pun .
 
-Edit(/img/ss/edit.JPG)
+Edit(/UAS/ss/edit.JPG)
 
 Sekian dari saya . terima kasih !!!
