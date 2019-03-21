@@ -34,21 +34,21 @@ UI APLIKASI
 1. Beranda
 Beranda ini digunakan sebagai identitas web dan hal pertama untuk menarik seseorang dalam sebuah web.
 
-home(https://imgur.com/wnQOBaw)
+![home](https://user-images.githubusercontent.com/47843947/54767599-0fe02600-4c30-11e9-8022-16e1df334bff.JPG)
 
 2. Read Data (Fitur Menampilkan Pendaftar)
 Sebuah halaman web yang menamilkan sekilas data data dari pendaftar akademi polisi.
 
-read(https://imgur.com/5cGaegx)
+![read](https://user-images.githubusercontent.com/47843947/54767837-98f75d00-4c30-11e9-883f-bc052098e56a.JPG)
 
 3. Create Data (Fitur Form Pendaftaran)
 Sebuah page form untuk melakukan penambahan data anggota pendaftar dan lansung bertambah kedatabase.
 
-create(https://imgur.com/0Z4mYub)
+![create](https://user-images.githubusercontent.com/47843947/54767779-80874280-4c30-11e9-8255-46ba20021251.JPG)
 
 4. Edit Data (Fitur Sparepart)
 Sebuah page form untuk melakukan sebuah Perubahan han data pendaftar dan lansung berubah didatabasenya pun .
 
-Edit(https://imgur.com/r9I1Uam)
+![edit](https://user-images.githubusercontent.com/47843947/54767901-b88e8580-4c30-11e9-8d7b-0c42025b7060.JPG)
 
 Sekian dari saya . terima kasih !!!
